@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#MainBox{
+  background-image: url(/src/component/bg.jpg);
+  background-size: cover;
+  background-position: center;
+}
+#head{
+  background: #B8E1FC;
+  background: radial-gradient(circle farthest-corner at center center, #B8E1FC 0%, #231421 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+}

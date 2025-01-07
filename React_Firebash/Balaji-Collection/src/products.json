@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Classic Black Sherwani",
+      "category": "Sherwani",
+      "description": "A traditional black sherwani with golden embroidery and a modern fit.",
+      "price": 150,
+      "img": "https://example.com/images/black_sherwani.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Royal Blue Sherwani",
+      "category": "Sherwani",
+      "description": "This royal blue sherwani features intricate silver embroidery and a luxurious fabric finish.",
+      "price": 200,
+      "img": "https://example.com/images/blue_sherwani.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Golden Wedding Sherwani",
+      "category": "Sherwani",
+      "description": "A stunning golden sherwani, perfect for wedding events, with rich handwork details.",
+      "price": 250,
+      "img": "https://example.com/images/golden_sherwani.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Formal Navy Blue Suit",
+      "category": "Suit",
+      "description": "A tailored navy blue suit with a slim fit, ideal for formal occasions and corporate events.",
+      "price": 180,
+      "img": "https://example.com/images/navy_blue_suit.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Classic Grey 3-Piece Suit",
+      "category": "Suit",
+      "description": "A timeless grey 3-piece suit featuring a vest, jacket, and trousers, crafted for elegance.",
+      "price": 220,
+      "img": "https://example.com/images/grey_suit.jpg"
+    }
+  ]
+  

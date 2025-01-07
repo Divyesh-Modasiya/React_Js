@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "name": "Inception",
+      "director": "Christopher Nolan",
+      "description": "A skilled thief is given a chance at redemption if he can successfully perform an inception on a powerful businessman.",
+      "img": "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SL1500_.jpg",
+      "rating":"7.5"
+    },
+    {
+      "id": 2,
+      "name": "Interstellar",
+      "director": "Christopher Nolan",
+      "description": "A group of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "img": "https://m.media-amazon.com/images/I/91kFYg4fX3L._AC_SL1500_.jpg",
+      "rating":"7.2"
+    },
+    {
+      "id": 3,
+      "name": "Avanger Endgame",
+      "director": "Antonyo Russo",
+      "description": "Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice when the Joker emerges.",
+      "img": "https://i.pinimg.com/474x/51/f9/e3/51f9e330dc0bcc778ad51ae451e7bdd2.jpg",
+      "rating":"9.2"
+    },
+    {
+      "id": 4,
+      "name": "The Matrix",
+      "director": "Lana Wachowski",
+      "description": "A computer hacker learns about the true nature of his reality and his role in the war against its controllers.",
+      "img": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_.jpg",
+      "rating":"6.5"
+    },
+    {
+      "id": 5,
+      "name": "Justice League",
+      "director": "David Fincher",
+      "description": "An insomniac office worker and a soap salesman form an underground fight club that spirals out of control.",
+      "img": "https://i.pinimg.com/474x/81/1c/96/811c962100bce08f35cb8901f0bf0677.jpg",
+      "rating":"8.1"
+    },
+    {
+      "id": 6,
+      "name": "The Meg",
+      "director": "Quentin Tarantino",
+      "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "img": "https://i.pinimg.com/474x/b0/79/c3/b079c3be6f04b9eeae591e5a410ea866.jpg",
+      "rating":"6.0"
+    },
+    {
+      "id": 7,
+      "name": "The Redemption",
+      "director": "Frank Darabont",
+      "description": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency.",
+      "img": "https://m.media-amazon.com/images/I/51zUbui+gbL._AC_.jpg",
+      "rating":"7.3"
+    },
+    {
+      "id": 8,
+      "name": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "img": "https://m.media-amazon.com/images/I/51rOnIjLqzL._AC_.jpg",
+      "rating":"8.4"
+    },
+    {
+      "id": 9,
+      "name": "The Spiderman",
+      "director": "Robert Zemeckis",
+      "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, and other historical events unfold from the perspective of an Alabama man with a slow but fascinating outlook on life.",
+      "img": "https://i.pinimg.com/474x/29/c6/58/29c658905d108c450d876c5f5e2f3b7e.jpg",
+      "rating":"8.9"
+    },
+    {
+      "id": 10,
+      "name": "The Lord of the Rings",
+      "director": "Peter Jackson",
+      "description": "A meek Hobbit and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth.",
+      "img": "https://m.media-amazon.com/images/I/51Qvs9i5a%2BL._AC_.jpg",
+      "rating":"8.5"
+    },
+    {
+      "id": 11,
+      "name": "Money Heist",
+      "director": "Robert Zemeckis",
+      "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, and other historical events unfold from the perspective of an Alabama man with a slow but fascinating outlook on life.",
+      "img": "https://i.pinimg.com/474x/ef/71/72/ef7172c57fe0657a1e63f07d757dd2dd.jpg",
+      "rating":"9.0"
+    },
+    {
+      "id": 12,
+      "name": "Game of Thrones",
+      "director": "Peter Jackson",
+      "description": "A meek Hobbit and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth.",
+      "img": "https://i.pinimg.com/474x/06/b8/90/06b890280ae1865f7aa896f1613d8818.jpg",
+      "rating":"8.7"
+    }
+  ]
+  
