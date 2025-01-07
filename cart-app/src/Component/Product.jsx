@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function Product() {
     const [data, setData] = useState([]);
     const [searchQuery, setSearchQuery] = useState("");
-    const [sortOrder, setSortOrder] = useState(null); // null, 'asc', or 'desc'
+    const [sortOrder, setSortOrder] = useState(null);
 
     useEffect(() => {
         const dataFetch = async () => {

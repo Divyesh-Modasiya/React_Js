@@ -49,7 +49,7 @@ function App2() {
             <li key={index}>
               {todo}
               <button onClick={() => handleRemoveTodo(index)}>Remove</button>
-              <button onClick={() => handleEditTodo(index)}>Edit</button>
+              {/* <button onClick={() => handleEditTodo(index)}>Edit</button> */}
             </li>
           ))}
         </ul>
